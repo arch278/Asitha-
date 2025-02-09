@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT-NEW">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img src="https://pin.it/4H1jEUs3u"  width="700px">
 </a>
 <hr>
  <p align="center">
@@ -62,7 +62,7 @@
 <hr>
 <b>CONTACT OWNER</b>
 
-[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94743381623)
+[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94701532320)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
@@ -72,13 +72,13 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/arch278/Asitha-)
+ [![BOT-NEW](https://img.shields.io/badge/Hashanth_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/arch278/Asitha-)
   
-[![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![BOT-NEW](https://img.shields.io/badge/Hashanth_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_replit-F2620?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![BOT-NEW](https://img.shields.io/badge/Hashanth_md_deploy_on_replit-F2620?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![BOT-NEW](https://img.shields.io/badge/Hashanth_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
